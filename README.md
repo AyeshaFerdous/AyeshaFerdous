@@ -84,6 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AyeshaFerdous/AyeshaFerdous/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AyeshaFerdous/AyeshaFerdous/blob/output/snake.svg" alt="Snake animation" />
 
 ###
