@@ -1,7 +1,5 @@
 <div align="center">
- <video height="150" controls>
-  <source src="https://www.dropbox.com/scl/fi/ftbzanrby9mb4nn967pyw/Dark-Blue-and-White-Modern-Gradient-Programming-Presentation.mp4?raw=1" type="video/mp4">
-</video>
+<img height="150" src="https://i.ibb.co.com/ThN9KjS/ayesha-Banner.png"
 </div>
 
 ###
